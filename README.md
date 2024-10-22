@@ -4,7 +4,7 @@
 - Omar A. Mohammed
 - Omar M. Ahmed
 - Amgad A. Shaban
-- Mahmoud M. Ahmed  
+- Mahmoud M. Abdelaty  
 Department of Systems and Biomedical Engineering, Faculty of Engineering, Cairo University
 
 ## Overview
